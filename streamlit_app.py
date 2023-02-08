@@ -1,4 +1,4 @@
-Import streamlit
+import Streamlit
 
-streamlit.title('My parents Helathy Dinner')
-streamlit.text('--Thank You--')
+Streamlit.title('My parents Helathy Dinner')
+Streamlit.text('--Thank You--')
